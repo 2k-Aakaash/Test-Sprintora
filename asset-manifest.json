@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Test-Sprintora/static/css/main.5869f78b.css",
-    "main.js": "/Test-Sprintora/static/js/main.ece065fe.js",
+    "main.css": "/Test-Sprintora/static/css/main.f058c9d0.css",
+    "main.js": "/Test-Sprintora/static/js/main.e5c19667.js",
     "static/js/787.64c0abcd.chunk.js": "/Test-Sprintora/static/js/787.64c0abcd.chunk.js",
     "index.html": "/Test-Sprintora/index.html",
-    "main.5869f78b.css.map": "/Test-Sprintora/static/css/main.5869f78b.css.map",
-    "main.ece065fe.js.map": "/Test-Sprintora/static/js/main.ece065fe.js.map",
+    "main.f058c9d0.css.map": "/Test-Sprintora/static/css/main.f058c9d0.css.map",
+    "main.e5c19667.js.map": "/Test-Sprintora/static/js/main.e5c19667.js.map",
     "787.64c0abcd.chunk.js.map": "/Test-Sprintora/static/js/787.64c0abcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5869f78b.css",
-    "static/js/main.ece065fe.js"
+    "static/css/main.f058c9d0.css",
+    "static/js/main.e5c19667.js"
   ]
 }
